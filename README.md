@@ -5,4 +5,3 @@ For this app I used the following
 - node.js/express for backend
 - ejs/tailwind for frontend
 - [api-ninjas](https://api-ninjas.com/) and axios for api
-- 
